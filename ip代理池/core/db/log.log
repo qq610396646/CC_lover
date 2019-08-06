@@ -1,0 +1,12 @@
+2019-33-01 13:33:25 mongo_pool.py[line:30] INFO 插入新的代理:{'ip': '203.42.227.113', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': [], '_id': '203.42.227.113'}
+2019-36-01 13:36:21 mongo_pool.py[line:32] WARNING 已经存在代理:{'ip': '203.42.227.113', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': []}
+2019-37-01 13:37:17 mongo_pool.py[line:32] WARNING 已经存在代理:{'ip': '203.42.227.113', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': []}
+2019-38-01 13:38:42 mongo_pool.py[line:32] WARNING 已经存在代理:{'ip': '203.42.227.113', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': []}
+2019-41-01 13:41:29 mongo_pool.py[line:41] INFO 删除代理:{'ip': '203.42.227.113', 'port': '8888', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': []}
+2019-47-01 13:47:12 mongo_pool.py[line:30] INFO 插入新的代理:{'ip': '203.42.227.113', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': [], '_id': '203.42.227.113'}
+2019-47-01 13:47:12 mongo_pool.py[line:41] INFO 删除代理:{'ip': '203.42.227.113', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': [], '_id': '203.42.227.113'}
+2019-47-01 13:47:19 mongo_pool.py[line:30] INFO 插入新的代理:{'ip': '203.42.227.123', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': [], '_id': '203.42.227.123'}
+2019-47-01 13:47:19 mongo_pool.py[line:41] INFO 删除代理:{'ip': '203.42.227.123', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': [], '_id': '203.42.227.123'}
+2019-47-01 13:47:28 mongo_pool.py[line:30] INFO 插入新的代理:{'ip': '203.42.227.123', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': [], '_id': '203.42.227.123'}
+2019-47-01 13:47:31 mongo_pool.py[line:30] INFO 插入新的代理:{'ip': '203.42.227.113', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': [], '_id': '203.42.227.113'}
+2019-48-01 13:48:23 mongo_pool.py[line:32] WARNING 已经存在代理:{'ip': '203.42.227.113', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': None, 'score': 50, 'disable_domain': []}
